@@ -24,6 +24,7 @@ public class SimpleBot {
     static void remindName() {
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
+        int x=5;
     }
 
     static void guessAge() {
