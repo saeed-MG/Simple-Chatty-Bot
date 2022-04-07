@@ -13,6 +13,7 @@ public class SimpleBot {
         // ...
         //end();
         test();
+        //1
     }
 
     static void greet(String assistantName, String birthYear) {
@@ -24,6 +25,8 @@ public class SimpleBot {
     static void remindName() {
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
+        int x=5;
+        String name = ahmd;
     }
 
     static void guessAge() {
@@ -68,6 +71,7 @@ public class SimpleBot {
 
     static void end() {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        //dfd
     }//
 
 }
